@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Cart IN Pocket	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Best Ecommerce Website</description>
+	<lastBuildDate>Tue, 23 Aug 2022 23:00:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>
+		Comment on Black Fashion Jacket by Kar6thik		</title>
+		<link>./../../product/black-fashion-jacket/index.html#comment-2</link>
+
+		<dc:creator><![CDATA[Kar6thik]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 18:03:36 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=22#comment-2</guid>
+
+					<description><![CDATA[Awesome product]]></description>
+			<content:encoded><![CDATA[<p>Awesome product</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
